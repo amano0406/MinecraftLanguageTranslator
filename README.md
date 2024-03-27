@@ -24,5 +24,4 @@ An application that uses ChatGPT to read and translate language files of Java ed
 ## About PR
 
 I created it in a hurry for the education of children, so PR is very welcome.<br/>
-If my personality seems okay, I'm the type to merge it quickly.<br/>
 Feel free to make corrections.
