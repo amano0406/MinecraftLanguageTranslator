@@ -13,7 +13,7 @@ An application that uses ChatGPT to read and translate language files of Java ed
 ## Usage
 
 1. Build the application
-1. Configure the config file<br/>
+1. Configure the config file(./config.ini)<br/>
   Mainly the source of translation, and the language setting after translation (Reference: https://minecraft.fandom.com/wiki/Language)
 1. Place the mods directory in the application directory
 1. Run the application
