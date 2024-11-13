@@ -8,7 +8,7 @@ An application that uses ChatGPT to read and translate language files of Java ed
 
   - Framework: net8.0
   - Application Format: Console Application
-  - Translation Mechanism: CHatGPT (version specified)
+  - Translation Mechanism: ChatGPT (version specified)
 
 ## Usage
 
